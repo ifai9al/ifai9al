@@ -12,7 +12,7 @@ const faisal = {
   focus: ["Web Platforms", "Full-Stack Systems", "UI/UX", "FiveM Development"],
   codingHours: "3000+",
   techProjects: "20+",
-  projects: "Jadawli · Nashrat · RABT · L2S",
+  projects: "Jadawli · Nashrat · RABT · L2S · And more..",
   motto: "I love being creative in everything ✨"
 };
 ```
