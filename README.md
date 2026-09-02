@@ -1,10 +1,7 @@
-
 ## 👋 About Me
-
 I'm **Faisal**, a software developer and CS student running **[iFaisal Studio](https://fasr.sa)**.
 <br/>
 I love building things, from a rough idea to a real product people actually use, mixing good design with solid code.
-
 ```javascript
 const faisal = {
   role: "Software Developer & CS Student",
@@ -16,22 +13,15 @@ const faisal = {
   motto: "I love being creative in everything ✨"
 };
 ```
-
 <br/>
 
-
 ## 🛠️ Tech Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,php,python,c,cpp,typescript,tailwind,js,lua,java,mysql,git&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,php,python,c,cpp,typescript,tailwind,js,lua,java,mysql,git,css&theme=dark" />
 </div>
-
 <br/>
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -63,37 +53,37 @@ A unified smart dashboard empowering creators to establish their digital presenc
 <td width="50%" valign="top">
 
 ### 🛒 [L2S](https://l2s.dev)
-The official digital storefront and web interface for L2S — a modern, seamless e-commerce experience, full-stack.
+The official digital storefront and web interface for L2S — storefront design, a custom admin dashboard for managing and tracking sales, an automated product delivery system, and built-in inventory/product monitoring.
 
-`E-Commerce` `Full-Stack`
+`Web App` `Full-Stack`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [L2S FiveM Packages](https://fivem.l2s.dev)
+### 🎮 L2S FiveM Packages
 Comprehensive game-server management packages built on QBCore with advanced NUI interfaces.
+
+- **L2S V6 Package** — [Preview](https://www.youtube.com/watch?v=RFnyQP3LasQ)
+- **L2S V5 Package** — [Preview](https://www.youtube.com/watch?v=NTjJNbCwUFY)
 
 `QBCore` `Lua` `NUI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ Advanced Game Scripts
-Dispatch task-management and Hotel systems with precise, interactive in-game mechanics.
+### 🕹️ [L2S FiveM Scripts](https://fivem.l2s.dev)
+A diverse collection of standalone scripts built for game servers, including: Dark Web, Police HUB, Paintball, Hotel, HUD, Gangs Turf, and Dispatch systems.
 
 `QBCore` `Lua` `NUI`
 
 </td>
 </tr>
 </table>
-
-
 <br/>
 
 ## 💼 What I Offer
-
 | Service | Description |
 |---|---|
 | **Web & Software Development** | Websites, web apps, management systems, and custom dashboards — idea to launch |
@@ -102,28 +92,22 @@ Dispatch task-management and Hotel systems with precise, interactive in-game mec
 <div align="center">
   <br/>
 <img src="https://img.shields.io/badge/🚀_Available_for_new_projects-success?style=flat-square" />
-<br/> 
+<br/>
 </div>
 
 <div align="center">
 <a href="https://t.me/xifai9al"><img src="https://img.shields.io/badge/Request%20a%20Service-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
-
 <br/>
 
 ## 📬 Let's Build Something Great
-
 <div align="center">
-
 Whether you have a new project, need a creative developer, or just want to say hi — I'd love to connect.
 
 <a href="https://fasr.sa"><img src="https://img.shields.io/badge/Website-fasr.sa-1a1a2e?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://t.me/xifai9al"><img src="https://img.shields.io/badge/Telegram-@xifai9al-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://x.com/xifai9al"><img src="https://img.shields.io/badge/X-@xifai9al-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://discord.gg/y8TPDtx6Uh"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-
 <br/><br/>
-
 <sub>.SA</sub>
-
 </div>
