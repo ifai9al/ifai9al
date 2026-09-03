@@ -1,11 +1,12 @@
 ## 👋 About Me
-I'm **Faisal**, a software developer and CS student running **[iFaisal Studio](https://fasr.sa)**.
+I'm **Faisal**, a software developer and CS student running **[iFaisal Studio](https://fasr.sa)** [fasr.sa].
 <br/>
 I love building things, from a rough idea to a real product people actually use, mixing good design with solid code.
 ```javascript
 const faisal = {
   role: "Software Developer & CS Student",
   studio: "iFaisal Studio",
+  url: "https://fasr.sa",
   focus: ["Web Platforms", "Full-Stack Systems", "UI/UX", "FiveM Development"],
   codingHours: "3000+",
   techProjects: "20+",
