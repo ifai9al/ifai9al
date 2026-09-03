@@ -89,25 +89,20 @@ A diverse collection of standalone scripts built for game servers, including: Da
 | **Web & Software Development** | Websites, web apps, management systems, and custom dashboards — idea to launch |
 | **FiveM Development** | Scripts and complete systems for game servers, interactive mechanics & NUI |
 
-<div align="center">
-  <br/>
-<img src="https://img.shields.io/badge/🚀_Available_for_new_projects-success?style=flat-square" />
-<br/>
-</div>
-
-<div align="center">
-<a href="https://t.me/xifai9al"><img src="https://img.shields.io/badge/Request%20a%20Service-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</div>
 <br/>
 
 ## 📬 Let's Build Something Great
 <div align="center">
-Whether you have a new project, need a creative developer, or just want to say hi — I'd love to connect.
-
+Whether you have a new project, need a creative developer, or just want to say hi — I'd love to connect. </br> </br>
 <a href="https://fasr.sa"><img src="https://img.shields.io/badge/Website-fasr.sa-1a1a2e?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://t.me/xifai9al"><img src="https://img.shields.io/badge/Telegram-@xifai9al-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://x.com/xifai9al"><img src="https://img.shields.io/badge/X-@xifai9al-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://discord.gg/y8TPDtx6Uh"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 <br/><br/>
+  <div align="center">
+  <br/>
+<img src="https://img.shields.io/badge/🚀_Available_for_new_projects-success?style=flat-square" />
+<br/>
+</div>
 <sub>.SA</sub>
 </div>
