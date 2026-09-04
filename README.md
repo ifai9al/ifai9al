@@ -95,7 +95,7 @@ A diverse collection of standalone scripts built for game servers, including: Da
 ## 📬 Let's Build Something Great
 <div align="center">
 Whether you have a new project, need a creative developer, or just want to say hi — I'd love to connect. </br> </br>
-<a href="https://fasr.sa"><img src="https://img.shields.io/badge/Website-fasr.sa-1a1a2e?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://fasr.sa"><img src="https://img.shields.io/badge/Website-fasr.sa-1a1a2e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiPjwvY2lyY2xlPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIj48L2xpbmU+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ij48L3BhdGg+PC9zdmc+" /></a>
 <a href="https://t.me/xifai9al"><img src="https://img.shields.io/badge/Telegram-@xifai9al-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://x.com/xifai9al"><img src="https://img.shields.io/badge/X-@xifai9al-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://discord.gg/y8TPDtx6Uh"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
