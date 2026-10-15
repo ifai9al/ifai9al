@@ -1,7 +1,10 @@
 ## 👋 About Me
-I'm **Faisal**, a software developer and CS student running **[iFaisal Studio](https://fasr.sa)** [fasr.sa].
+Hello! I am Faisal. I am a software developer and computer science student running **[iFaisal Studio](https://fasr.sa)** [fasr.sa].
 <br/>
-I love building things, from a rough idea to a real product people actually use, mixing good design with solid code.
+I really like designing products right from conceptualizing an idea into its actual implementation and coding the software behind it. 
+<br/>
+Besides programming, I have a keen interest in artificial intelligence development as well.
+
 ```javascript
 const faisal = {
   role: "Software Developer & CS Student",
