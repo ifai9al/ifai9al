@@ -64,7 +64,7 @@ The official digital storefront and web interface for L2S — storefront design,
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎮 FiveM Assets
 A set of advanced systems and script packages designed and built for FiveM servers that support QBCore, QBox, and ESX — combining high performance, realism, and modern interactive interfaces.
