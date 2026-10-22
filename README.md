@@ -64,25 +64,17 @@ The official digital storefront and web interface for L2S — storefront design,
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🎮 L2S FiveM Packages
-Comprehensive game-server management packages built on QBCore with advanced NUI interfaces.
+### 🎮 FiveM Assets
+A set of advanced systems and script packages designed and built for FiveM servers that support QBCore, QBox, and ESX — combining high performance, realism, and modern interactive interfaces.
 
 - **[01] L2S V6 Package** — [Preview](https://www.youtube.com/watch?v=RFnyQP3LasQ)
 - **[02] Dispatch System Script** — [Preview](https://www.youtube.com/watch?v=Ar3B396SegA)
 - **[03] Hotles Script** — [Preview](https://www.youtube.com/watch?v=f9bwj9EBLnI)
 - **[04] Gangs Turf** — [Preview](https://www.youtube.com/watch?v=H6QxngrgGU4)
 
-`QBCore` `Lua` `NUI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕹️ [L2S FiveM Scripts](https://fivem.l2s.dev)
-A diverse collection of standalone scripts built for game servers, including: Dark Web, Police HUB, Paintball, Hotel, HUD, Gangs Turf, and Dispatch systems.
-
-`QBCore` `Lua` `NUI`
+`QBCore` `QBox` `ESX`
 
 </td>
 </tr>
