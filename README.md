@@ -69,8 +69,10 @@ The official digital storefront and web interface for L2S — storefront design,
 ### 🎮 L2S FiveM Packages
 Comprehensive game-server management packages built on QBCore with advanced NUI interfaces.
 
-- **L2S V6 Package** — [Preview](https://www.youtube.com/watch?v=RFnyQP3LasQ)
-- **L2S V5 Package** — [Preview](https://www.youtube.com/watch?v=NTjJNbCwUFY)
+- **[01] L2S V6 Package** — [Preview](https://www.youtube.com/watch?v=RFnyQP3LasQ)
+- **[02] Dispatch System Script** — [Preview](https://www.youtube.com/watch?v=Ar3B396SegA)
+- **[03] Hotles Script** — [Preview](https://www.youtube.com/watch?v=f9bwj9EBLnI)
+- **[04] Gangs Turf** — [Preview](https://www.youtube.com/watch?v=H6QxngrgGU4)
 
 `QBCore` `Lua` `NUI`
 
