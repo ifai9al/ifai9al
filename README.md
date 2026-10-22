@@ -64,17 +64,21 @@ The official digital storefront and web interface for L2S — storefront design,
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🎮 FiveM Assets
+### 🎮 FiveM Systems & Assets
 A set of advanced systems and script packages designed and built for FiveM servers that support QBCore, QBox, and ESX — combining high performance, realism, and modern interactive interfaces.
 
-- **[01] L2S V6 Package** — [Preview](https://www.youtube.com/watch?v=RFnyQP3LasQ)
-- **[02] Dispatch System Script** — [Preview](https://www.youtube.com/watch?v=Ar3B396SegA)
-- **[03] Hotles Script** — [Preview](https://www.youtube.com/watch?v=f9bwj9EBLnI)
-- **[04] Gangs Turf** — [Preview](https://www.youtube.com/watch?v=H6QxngrgGU4)
+<br>
 
-`QBCore` `QBox` `ESX`
+| | |
+| :--- | :--- |
+| **📦 [01] L2S V6 Package** — [Preview](https://www.youtube.com/watch?v=RFnyQP3LasQ) | **🚨 [02] Dispatch System** — [Preview](https://www.youtube.com/watch?v=Ar3B396SegA) |
+| **🏨 [03] Hotels Script** — [Preview](https://www.youtube.com/watch?v=f9bwj9EBLnI) | **⚔️ [04] Gangs Turf** — [Preview](https://www.youtube.com/watch?v=H6QxngrgGU4) |
+
+<br>
+
+`QBCore` `QBox` `ESX` `LUA` `NUI`
 
 </td>
 </tr>
